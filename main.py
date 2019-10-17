@@ -1,12 +1,10 @@
 '''
 Author: Jorge Andres Bravo
 Author's Github: https://github.com/jazzify
-Author's Email: jm1218@hotmail.com
 
 Creation Date: 27/06/17
-Last modification date: 12/01/2018
 
-Description: This script was created for time optimization of the CoE team in Himalaya                Digital Agency.
+Description: This script was created for time optimization of the CoE team in Himalaya Digital Agency.
              It looks for the right links the user have to work with
              and it organizes them into a directory.
 
